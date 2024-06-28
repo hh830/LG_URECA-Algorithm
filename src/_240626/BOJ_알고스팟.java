@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
+
 public class 알고스팟 {
     static int matrix[][], visit[][];
     static int cnt = 0, N, M;
